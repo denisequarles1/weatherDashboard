@@ -35,7 +35,7 @@ This is a weather dashboard that will run in the browser and features dynamicall
 <br>
 
 ## Application
-The deployed application can be found here: 
+The deployed application can be found here: https://denisequarles1.github.io/weatherDashboard/
 
 <br>
 
